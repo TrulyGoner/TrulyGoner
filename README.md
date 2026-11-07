@@ -50,7 +50,7 @@ const developer = {
 
 ---
 
-### 🛠 Стек технологий
+###  Стек технологий
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,html,css,tailwind,vite,git,figma,postman&perline=12&theme=dark" alt="Tech Stack" />
@@ -63,24 +63,24 @@ const developer = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TrulyGoner/SoundMap">🎧 SoundMap</a></h4>
+      <h4><a href="https://github.com/TrulyGoner/SoundMap"> SoundMap</a></h4>
       <p>Интерактивная карта с визуализацией аудио-пространств и эмбиент-звуков.</p>
       <code>TypeScript</code> <code>React</code> <code>Web Audio</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TrulyGoner/CineMatch">🎬 CineMatch</a></h4>
+      <h4><a href="https://github.com/TrulyGoner/CineMatch"> CineMatch</a></h4>
       <p>Сервис подбора кино с динамической фильтрацией и отзывчивым интерфейсом.</p>
       <code>TypeScript</code> <code>React</code> <code>REST API</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TrulyGoner/Server-Metrics-Dashboard">📊 Server Metrics Dashboard</a></h4>
+      <h4><a href="https://github.com/TrulyGoner/Server-Metrics-Dashboard"> Server Metrics Dashboard</a></h4>
       <p>Интерактивный дашборд системных метрик с динамическими графиками.</p>
       <code>Vue</code> <code>JavaScript</code> <code>Dashboard</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TrulyGoner/NeoShop">🛍 NeoShop</a></h4>
+      <h4><a href="https://github.com/TrulyGoner/NeoShop"> NeoShop</a></h4>
       <p>E-commerce концепт с корзиной, реактивным каталогом и современным UX.</p>
       <code>TypeScript</code> <code>React</code> <code>State Management</code>
     </td>
